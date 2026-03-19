@@ -20,6 +20,6 @@
     }
   },
   "files": {
-    "ignore": ["dist", "node_modules", "storybook-static", ".turbo", ".storybook-cache"]
+    "ignore": ["dist", "node_modules", "storybook-static", ".turbo", ".storybook-cache", ".agents"]
   }
 }
