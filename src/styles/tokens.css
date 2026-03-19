@@ -1,0 +1,17 @@
+:root {
+  --ui-font-sans: "Sora", "Segoe UI", sans-serif;
+  --ui-color-bg: #f8f8f6;
+  --ui-color-fg: #101010;
+  --ui-color-surface: #ffffff;
+  --ui-color-border: #dad7d2;
+  --ui-color-primary: #1e7f5c;
+  --ui-color-primary-fg: #f4fff8;
+  --ui-color-danger: #b3342f;
+  --ui-radius-sm: 0.375rem;
+  --ui-radius-md: 0.625rem;
+  --ui-radius-lg: 0.875rem;
+  --ui-space-1: 0.25rem;
+  --ui-space-2: 0.5rem;
+  --ui-space-3: 0.75rem;
+  --ui-space-4: 1rem;
+}

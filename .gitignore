@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+storybook-static/
+
+# Test outputs
+coverage/
+.vitest/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local cache and temp
+.tmp/
+tmp/
+.cache/
+.turbo/
+.storybook-cache/
+
+# TypeScript incremental artifacts
+*.tsbuildinfo
+
+# Husky runtime helper files (generated)
+.husky/_/
+
+# Package manager local cache
+.pnpm-store/

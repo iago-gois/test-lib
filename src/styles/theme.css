@@ -1,0 +1,12 @@
+@import "./tokens.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--ui-font-sans);
+  background: radial-gradient(circle at top right, #f0f7f2, var(--ui-color-bg));
+  color: var(--ui-color-fg);
+}
