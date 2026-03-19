@@ -1,0 +1,18 @@
+{
+  "name": "consumer-app-smoke-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "smoke": "pnpm typecheck"
+  },
+  "dependencies": {
+    "@iago/test-lib": "file:../../"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.7.2"
+  }
+}
