@@ -5,9 +5,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iago/test-lib.git"
+    "url": "git+https://github.com/iago-gois/test-lib.git"
   },
-  "homepage": "https://github.com/iago/test-lib#readme",
+  "homepage": "https://github.com/iago-gois/test-lib#readme",
   "keywords": ["react", "ui", "component-library", "design-system", "shadcn", "radix"],
   "type": "module",
   "main": "./dist/index.cjs",

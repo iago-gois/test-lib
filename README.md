@@ -1,7 +1,7 @@
 # @iago/test-lib
 
-[![CI](https://github.com/iago/test-lib/actions/workflows/ci.yml/badge.svg)](https://github.com/iago/test-lib/actions/workflows/ci.yml)
-[![Release](https://github.com/iago/test-lib/actions/workflows/release.yml/badge.svg)](https://github.com/iago/test-lib/actions/workflows/release.yml)
+[![CI](https://github.com/iago-gois/test-lib/actions/workflows/ci.yml/badge.svg)](https://github.com/iago-gois/test-lib/actions/workflows/ci.yml)
+[![Release](https://github.com/iago-gois/test-lib/actions/workflows/release.yml/badge.svg)](https://github.com/iago-gois/test-lib/actions/workflows/release.yml)
 [![npm version](https://img.shields.io/npm/v/@iago/test-lib)](https://www.npmjs.com/package/@iago/test-lib)
 
 A React UI component library focused on accessibility, composability, and strict TypeScript APIs.
