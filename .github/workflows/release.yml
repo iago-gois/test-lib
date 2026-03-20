@@ -34,6 +34,13 @@ jobs:
       - name: Build package
         run: pnpm build
 
+      - name: Verify npm auth
+        run: |
+          npm config get registry
+          npm whoami
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
       - name: Create release PR or publish
         uses: changesets/action@v1
         with:
