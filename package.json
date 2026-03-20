@@ -47,7 +47,7 @@
     "prepare": "husky"
   },
   "lint-staged": {
-    "*.{ts,tsx,js,jsx,json,md,css}": "biome check --write"
+    "*.{ts,tsx,js,jsx,json,md,css}": "biome check --write --no-errors-on-unmatched"
   },
   "peerDependencies": {
     "react": ">=18 <20",
