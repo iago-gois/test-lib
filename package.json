@@ -1,5 +1,5 @@
 {
-  "name": "@iago/test-lib",
+  "name": "@iago-gois/test-lib",
   "version": "0.0.0",
   "description": "Centralized React UI library focused on accessibility and composability.",
   "license": "MIT",
